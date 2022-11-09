@@ -22,7 +22,7 @@ do
     component.Push("sól: ");
     component.Push("świeże drożdże piekarskie: ");
     component.Push("woda: ");
-    component.Push("mąka typu 00: ");
+    component.Push("mąka: ");
 
     Console.WriteLine("---------------------------------------------");
     Console.WriteLine("Podaj ile gram mąki posiadasz. Program poda Ci ile potrzebujesz pozostałych składników. /n Wagę podaj w gramach, równą lub więszą od 125g (ok pół szklanki)");
